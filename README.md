@@ -1,2 +1,2 @@
-# Timer
+# Checkers
 Created with CodeSandbox
